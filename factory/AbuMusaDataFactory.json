@@ -1,0 +1,9 @@
+{
+	"name": "AbuMusaDataFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01146bda-6a75-4b4d-b61c-15019722ba29",
+		"tenantId": "62f6bc23-9066-40d7-8cac-a52ae3a27a45"
+	}
+}
